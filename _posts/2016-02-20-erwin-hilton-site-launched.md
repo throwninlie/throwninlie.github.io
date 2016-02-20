@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: "Erwin Hilton, Ninja Game-dev, Launches Site"
 date: 2016-02-20
 ---
