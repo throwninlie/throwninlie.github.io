@@ -1,2 +1,3 @@
 name: Erwin Hilton, Ninja Game-dev
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
